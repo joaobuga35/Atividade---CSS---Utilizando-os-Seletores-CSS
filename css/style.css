@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+small {
+    text-transform: uppercase;
+}
+.title {
+    text-align: center;
+    font-family: Heebo;
+}
+
+span {
+    color: #4169E1;
+}
+.link {
+    font-family: 'Open Sans', sans-serif;
+}
+.main p {
+    background-color:#4169E1 ;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+li {
+    text-decoration: underline;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.rodape {
+    height: 35px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #fff;
+    background-color: black;
+    
+}
+
+.final-text {
+    padding: 5px;
+}
